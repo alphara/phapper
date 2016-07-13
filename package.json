@@ -11,7 +11,8 @@
     "test": "make test"
   },
   "config": {
-    "phantomjs_version": "2.1.1"
+    "TODO_phantomjs_version": "2.1.1",
+    "phantomjs_version": "1.9.8"
   },
   "repository": {
     "type": "git",
